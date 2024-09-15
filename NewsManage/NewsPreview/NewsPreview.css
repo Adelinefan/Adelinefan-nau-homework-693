@@ -1,0 +1,10 @@
+.NewsPreviewContent {
+    border: 2px solid rgb(249, 243, 243);
+    background-color: rgb(150, 152, 168, 0.3);
+    border-radius: 10px;
+    box-shadow: #ece4e4 0px 0px 10px;
+    padding: 24px;
+    /* 超出换行 */
+    word-break: break-all;
+    white-space: normal;
+}

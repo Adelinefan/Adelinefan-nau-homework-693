@@ -1,0 +1,44 @@
+.ant-menu.ant-menu-dark{
+    background:#ccc !important;
+    color: black!important;
+}
+.ant-layout-sider-children{
+    background-color: #ccc;
+    font-weight: 700;
+
+  }
+  .ant-menu-dark .ant-menu-inline.ant-menu-sub{
+    background-color: #fff !important;
+    color: black!important;
+    font-weight: 400;
+  }
+  .ant-menu-title-content{
+    color: black!important;
+  }
+  .-title-content{
+    color: black!important;
+  }
+  .ant-menu.ant-menu-dark .anticon svg{
+    color: black;
+  }
+  /* .ant-drawer-body div  div{
+    width: 400px;
+  }
+  .ant-drawer-body div canvas{
+    width: 400px !important;
+  } */
+  .ant-list-bordered.ant-list-sm .ant-list-item {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.ant-list-bordered .ant-list-item{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.ant-card-bordered .ant-card-cover{
+  width: 200px;
+  height: 200px;
+}
